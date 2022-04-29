@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I love cooking and learning.
 
 
-
+ <img src="https://komarev.com/ghpvc/?username=EdilAbe&style=flat-square&color=blue" alt=""/>
 
 ### Languages and Tools:
 
